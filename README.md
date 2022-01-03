@@ -11,6 +11,6 @@
 <h3>Select Video Archives:</h3>
 <ul>
   <li><a target="_blank" href="https://spark.adobe.com/video/se2SXC3OQO3ek/embed">Mitt Romney</a>
-  <h6>Don't miss out, because he also claimed that Romney was persistent because he knew he was going to lose, but campaigned anyway. Investigations looking into whether that was a joke are ongoing.</h6></li>
+  <h6>Don't miss out, because this is a great video!</h6></li>
   <li><a target="_blank" href="https://spark.adobe.com/video/Sp4ct2gHfd2US/embed">The Truth About Andrew Jackson</a></li>
 </ul>
